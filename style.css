@@ -1,0 +1,149 @@
+.container{
+   display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+.rotleuchtend{
+  background:#e841f4 !important;
+
+}
+
+#anaus{
+  font-size: 10px;
+}
+
+
+  .farbtaste {
+
+height: 100% !important;
+    width: 100%;
+
+    border-radius:   33px 33px 0 0!important;
+     cursor: pointer;
+         box-shadow: 3px 3px grey;
+
+}
+
+
+#red{border-radius: 0   500px  500px 0  !important;}
+#blue{border-radius:  500px 0  0 500px  !important;}
+
+#yellow{border-radius: 500px 500px 0 0 !important;}
+
+
+#green{border-radius: 0 0 500px 500px !important;}
+.grey{background: grey !important;}
+
+
+}
+
+
+
+.simonBoard{
+box-shadow: 10px 10px grey
+}
+
+    .tabelle
+    {
+  display: table;
+   width: 100%;
+   height: 100%;
+      margin: 50px;
+  width: 500px;
+  height: 500px;
+  background: #aaa;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+      border-radius: 300px;
+      box-shadow: 10px 20px grey;
+
+    }
+.spalte{
+ display: table;
+   height: 100%;
+  width: 33%;
+    }
+.feld{
+  height: 33%;
+  width: 100%;
+   display: table;
+
+}
+.tabelle2{
+  display: table;
+   width: 100%;
+   height: 100%;
+      margin: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.spalte2{
+ display: table;
+   height: 100%;
+  width: 40%;
+    }
+.spalte3{
+ display: table;
+   height: 100%;
+  width: 60%;
+    }
+.feld2{
+  height: 33%;
+  width: 100%;
+   display: table;
+
+}
+#start {
+  height: 30px;
+   width: 30px;
+  border-radius: 300px !important;
+  align-items: right !important;
+  border-radius: 100px;
+  margin: 0 0 0 50%;
+  background: orange;
+  cursor: pointer;
+
+}
+
+#123{
+  background: #111;
+  height: 30px;
+  width: 70px;
+
+}
+
+#anzeige{
+  background: #111;
+  height: 30px;
+  width: 40px;
+  color: #f00;
+  margin: 0 0 0 20px ;
+  border-width: 4px;
+  border-color: #111;
+  text-align: center;
+  font-family: 'Share Tech Mono';
+  font-size: 19px;
+  box-shadow: 2px 2px grey;
+}
+
+.btn-secondary{
+
+   box-shadow: 2px 2px grey;
+}
+
+#strict {
+
+    height: 30px;
+   width: 30px;
+  border-radius: 300px !important;
+  align-items: right !important;
+  border-radius: 100px;
+  margin: 0 0 0 50%;
+  background: orange;
+  cursor: pointer;
+}
